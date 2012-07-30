@@ -1,9 +1,6 @@
 package com.tomsovi;
 
 import java.io.ByteArrayInputStream;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
 import org.tmatesoft.svn.core.SVNCommitInfo;
 import org.tmatesoft.svn.core.SVNException;
 import org.tmatesoft.svn.core.SVNURL;
